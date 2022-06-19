@@ -16,3 +16,5 @@ nvm use 16
 npm i
 ./node_modules/.bin/mocha test.js
 ```
+
+Issue: https://github.com/chaijs/chai/issues/1470
